@@ -1,0 +1,162 @@
+// sidebar раздела "Начало работы"
+
+export const sidebarGuide = [
+        {
+          text: 'Введение',
+          link: 'README.md'
+        },
+        {
+          text: 'Дополнительные возможности',
+          link: 'dopolnitelnye_vozmozhnosti.md'
+        },
+        {
+          text: 'Конфигурации',
+          collapsed: false,
+          items: [
+            {
+              text: 'Типовые конфигурации программы',
+              link: '/guide/tipovye_konfiguratsii_programmy/README.md'
+            },
+            {
+              text: 'Версия системы SQL',
+              link: '/guide/tipovye_konfiguratsii_programmy/versija_sistemy_sql.md'
+            },
+            {
+              text: 'Версия системы PostgreSql',
+              link: '/guide/tipovye_konfiguratsii_programmy/versija_sistemy_postgresql.md'
+            },
+            {
+              text: 'Общие аппаратные требования к рабочим местам',
+              link: '/guide/tipovye_konfiguratsii_programmy/obschie_apparatnye_trebovanija_k_rabochim_mestam.md'
+            }
+          ]
+        },
+        {
+          text: 'Установка программы и компонентов',
+          collapsed: false,
+          items: [
+            {
+              text: 'Установка программы',
+              link: '/guide/installing/ustanovka_programmy_i_komponentov.md'
+            },
+            {
+              text: 'Активация и деактивация программы',
+              collapsed: true,
+              items: [
+                {
+                  text: 'Особенности активации и деактивации',
+                  link: '/guide/installing/activation/osobennosti_aktivacii_i_deaktivacii.md'
+                },
+                {
+                  text: 'Активация программы',
+                  link: '/guide/installing/activation/aktivatsija_programmy.md'
+                },
+                {
+                  text: 'Деактивация программы',
+                  link: '/guide/installing/activation/deaktivatsija_programmy.md'
+                }
+              ]
+            },
+            {
+              text: 'Подключение программы к службе лицензирования',
+              link: '/guide/installing/podkljuchenie_programmy_k_sluzhbe_litsenzirovanija.md'
+            },
+            {
+              text: 'Обновление программы',
+              link: '/guide/installing/obnovlenie_programmy.md'
+            }
+          ]
+        },
+        {
+          text: 'Работа с базами данных',
+          collapsed: false,
+          items: [
+            {
+              text: 'Описание стартового окна программы',
+              link: '/guide/database/opisanie_startovogo_okna_programmy.md'
+            },
+            {
+              text: 'Создание баз данных',
+              collapsed: true,
+              items: [
+                {
+                  text: 'Установка MS SQL Сервера и создание базы данных на нем',
+                  link: '/guide/database/create_database/ustanovka_ms_sql_servera_i_sozdanie_bazy_dannyh_na_nem.md'
+                },
+                {
+                  text: 'Создание базы данных на SQL Server',
+                  link: '/guide/database/create_database/sozdanie_bazy_dannyh_na_sql_server.md'  
+                },
+                {
+                  text: 'Создание базы данных на PotsgreSQL',
+                  link: '/guide/database/create_database/sozdanie_bazy_dannyh_na_postgresql.md'  
+                }
+              ]
+            },
+            {
+              text: 'Создание резервных копий баз данных',
+              collapsed: true,
+              items: [
+                {
+                  text: 'на MS SQL',
+                  link: '/guide/database/backup_database/sozdanie_rezervnoj_kopii_bazy_dannyh_ms_sql.md'  
+                },
+                {
+                  text: 'на PostgreSQL',
+                  link: '/guide/database/backup_database/sozdanie_rezervnoj_kopii_bazy_dannyh_postgresql.md'  
+                }
+              ]  
+            },
+            {
+              text: 'Первый вход в базу данных',
+              link: '/guide/database/pervyj_vhod_v_bazu_dannyh.md'  
+            }
+          ]
+        },
+        {
+          text: 'Первичное наполнение',
+          collapsed: true, 
+          items: [
+            {
+              text: 'Добавление карточки вашей фирмы',
+              link: '/guide/initial/dobavlenie_kartochki_vashej_firmy.md'  
+            },
+            {
+              text: 'Добавление торговой точки и склада',
+              link: '/guide/initial/'  
+            },
+            {
+              text: 'Добавление счетов и касс',
+              link: '/guide/initial/'  
+            },
+            {
+              text: 'Импорт клиентов',
+              link: '/guide/initial/'  
+            },
+            {
+              text: 'Импорт поставщиков',
+              link: '/guide/initial/'  
+            },
+            {
+              text: 'Импорт прайс-листа наличия',
+              link: '/guide/initial/'  
+            },
+            {
+              text: 'Добавление правила ценообразования',
+              link: '/guide/initial/'  
+            },      
+            {
+              text: 'Добавление веб-поставщика',
+              link: '/guide/initial/'  
+            },    
+            {
+              text: 'Добавление почтового сервиса',
+              link: '/guide/initial/'  
+            },      
+            {
+              text: 'Добавление нового пользователя',
+              link: '/guide/initial/'  
+            },             
+          ]
+        }
+      ]

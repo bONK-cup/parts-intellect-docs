@@ -1,0 +1,18 @@
+export const sidebarCRM = [
+  {
+    text: 'Клиенты',
+    items: [
+      {
+        text: '',
+      },
+      {
+        text: 'Фильтр списка контрагентов',
+        link: '/specification/crm/klienty/filtr_spiska_kontragentov.md'
+      },
+      {
+        text: 'Категории клиентов',
+        link: '/specification/crm/klienty'
+      }  
+    ]
+  }
+]
