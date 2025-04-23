@@ -3,7 +3,7 @@ name: docs
 on:
   # Trigger deployment whenever a push is made to the main branch
   push:
-    branches: [main]
+    branches: [master]
   # Manually trigger deployment
   workflow_dispatch:
 
