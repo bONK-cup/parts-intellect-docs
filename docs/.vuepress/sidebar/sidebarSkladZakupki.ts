@@ -4,7 +4,7 @@ export const sidebarSkladZakupki = [
     link: '/specification/sklad_i_zakupki/skladytorgovye_tochki.md'
   },
   {
-    text: '',
+    text: 'Поставщики',
     link: ''
   },
   {
