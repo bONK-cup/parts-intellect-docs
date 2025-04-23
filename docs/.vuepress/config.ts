@@ -8,7 +8,7 @@ import { sidebarCRM } from './sidebar/sidebarCRM'
 import { sidebarProdazhi } from './sidebar/sidebarProdazhi'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/parts-intellect-docs/',
   lang: 'en-US',
   title: 'Parts Intellect',
   description: 'Parts Intellect Docs',
