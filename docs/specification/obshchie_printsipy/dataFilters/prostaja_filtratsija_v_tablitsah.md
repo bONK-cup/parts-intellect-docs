@@ -1,9 +1,7 @@
 ---
 createTime: 2025/04/20 18:33:05
-title: prostaja_filtratsija_v_tablitsah
+title: Простая фильтрация в таблицах
 ---
-# Простая фильтрация в таблицах
-
 В табличной части доступна настройка **Простой фильтрации**.
 
 ![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.078.png)

@@ -1,9 +1,7 @@
 ---
 createTime: 2025/04/20 18:30:00
-title: raspolozhenie_blankov
+title: Расположение бланков
 ---
-# Расположение бланков
-
 Файлы шаблонов расположены на компьютере пользователя по адресу:
 
 Windows XP: "%ALLUSERSPROFILE%\Application Data\Tradesoft\Parts.Intellect\Шаблоны".
