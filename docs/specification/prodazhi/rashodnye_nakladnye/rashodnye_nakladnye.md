@@ -22,7 +22,7 @@ createTime: 2025/04/23 09:08:20
 
 ![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.006.png) **Поиск**
 
-![ref43](drex_raskhodnye_nakladnye_control_2.png)
+![ref43](../../../assets/specification/drex_raskhodnye_nakladnye_control_2.png)
 
 Позволяет произвести фильтрацию документов с помощью полей:
 

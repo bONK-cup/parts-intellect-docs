@@ -107,7 +107,7 @@ export const sidebarCRM = [
     items: [
       {
         text: 'Рабочее окно',
-        libk: '/specification/crm/zadachi/zadachi.md'
+        link: '/specification/crm/zadachi/zadachi.md'
       },
       {
         text: 'Инспектор добавления задачи',
