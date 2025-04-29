@@ -170,7 +170,7 @@ createTime: 2025/04/23 11:01:39
 
 - **Помощь** – позволяет открыть руководство пользователя по разделу.
 
-![ref5](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.010.png) **Табличная часть**
+![ref5](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.010.png) **Табличная часть**
 
 ![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.563.png)
 
@@ -248,7 +248,7 @@ createTime: 2025/04/23 11:01:39
 
 - **Торговая точка - автор** – **Торговая точка** автора документа указанная в **Панель активных НФ/ТТ/Склад**.
 
-![ref6](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.017.png) **Позиции документа**
+![ref6](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.017.png) **Позиции документа**
 
 ![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.564.png)
 
