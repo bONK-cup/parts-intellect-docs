@@ -52,5 +52,9 @@ export const sidebarSkladZakupki = [
         link: '/specification/sklad_i_zakupki/master_sozdanija/peremeschenie_tovara.md'
       }
     ]
+  },
+  {
+    text: 'Заказы поставщикам',
+    link: '/specification/sklad_i_zakupki/zakazy_postavschikam.md'
   }  
 ]
