@@ -1,24 +1,22 @@
 ---
-title: rashodnye_kassovye_ordera
+title: Расходные кассовые ордера
 createTime: 2025/05/01 19:20:44
 ---
-# Расходные кассовые ордера
-
 Пункт меню содержит список документов **Расходные кассовые ордера**, по которым производится выплата **Нашей фирмой** наличных средств**.**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.838.png)
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.838.png)
 
 Панель действий содержит стандартные команды и некоторые уникальные команды:
 
-![ref2]**Мастер платежных документов**
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.004.png) **Мастер платежных документов**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.839.png)
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.839.png)
 
 Позволяет открыть мастер создания платежных документов.
 
-![ref3]**Чек выдачи наличных**
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.006.png) **Чек выдачи наличных**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.840.png)
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.840.png)
 
 Позволяет напечатать не фискальный чек с признаком "Выплата" наличных. 
 

@@ -1,42 +1,40 @@
 ---
-title: valjuta
+title: Валюта
 createTime: 2025/05/01 19:22:06
 ---
-# Валюта
-
 В инспекторе справочника **Валюты и курсы** на вкладке **Валюта** задается наименование валюты, её отображение и обозначение.
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.854.png)
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.854.png)
 
-![ref2]**Название**
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.004.png) **Название**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.855.png)
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.855.png)
 
 Позволяет указать наименование добавляемой валюты.
 
-![ref3]**Символ**
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.006.png) **Символ**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.856.png)
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.856.png)
 
 Позволяет указать уникальный символ или сокращенное название валюты.
 
-![ref4]**Международное обозначение**
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.008.png) **Международное обозначение**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.857.png)
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.857.png)
 
 Позволяет указать буквенный код валюты по стандарту ISO.
 
-![ref5]**Международный код**
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.010.png) **Международный код**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.858.png)
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.858.png)
 
 Позволяет указать цифровой код валюты по стандарту ISO 4217:2015. Используется при обмене данными с внешними системами, например, для загрузки курсов валют с сайтов национальных банков.
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.859.png) – позволяет открыть страницу с информацией для заполнения полей при добавлении валюты.
+Иконка ![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.859.png) – позволяет открыть страницу с информацией для заполнения полей при добавлении валюты.
 
-![ref6]**Используется в интернет-магазине**
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.017.png) **Используется в интернет-магазине**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.860.png)
+![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.860.png)
 
 Позволяет отметить использование данной валюты в интернет-магазине.
 

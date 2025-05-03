@@ -1,38 +1,36 @@
 ---
-title: master_sozdanija_platezhej
+title: Мастер создания платежей
 createTime: 2025/05/01 19:17:37
 ---
-# Мастер создания платежей
-
 Мастер платежных документов позволяет быстро создать платежные документы (ПКО, РКО, ПП, ППвх).
 
 Работа с мастером заключается в следующем:
 
 **»** Задаем дату документов, выбираем Нашу фирму и Валюту документа (по молчанию). Затем нажимаем кнопку **Добавить**.
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.821.png)
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.821.png)
 
-![ref2]**Дата и время документа**
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.004.png) **Дата и время документа**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.822.png)
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.822.png)
 
 Позволяет задать дату и время создания документа.
 
-![ref3]**Наша фирма**
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.006.png) **Наша фирма**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.823.png)
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.823.png)
 
 Позволяет задать фирму, от лица которой будет создан документ.
 
-![ref4]**Валюта (по умолчанию)**
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.008.png) **Валюта (по умолчанию)**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.824.png)
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.824.png)
 
 Позволяет указать валюту документа по умолчанию из справочника **Валюты**.
 
-![ref5]**Добавить**
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.010.png) **Добавить**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.825.png)
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.825.png)
 
 Позволяет добавить новую строку в **Мастер создания платежных документов**.
 
@@ -42,23 +40,23 @@ createTime: 2025/05/01 19:17:37
 
 **»** Выбираем действие по отношению к создаваемым документам: **Открыть в редакторе** или **Провести**.
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.826.png)
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.826.png)
 
-![ref2]**Открыть в редакторе**
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.004.png) **Открыть в редакторе**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.827.png)
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.827.png)
 
 Позволяет открыть документ в редакторе после его создания.
 
-![ref3]**Провести**
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.006.png) **Провести**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.828.png)
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.828.png)
 
 Позволяет провести документ после его создания.
 
-![ref4]**Создать документы**
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.008.png) **Создать документы**
 
-![](Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.829.png)
+![](../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.829.png)
 
 Позволяет создать документы на основе введенных данных.
 

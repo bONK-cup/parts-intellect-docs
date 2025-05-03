@@ -7,6 +7,8 @@ import { sidebarObshchiePrintsipy } from './sidebar/sidebarObshchiePrintsipy'
 import { sidebarCRM } from './sidebar/sidebarCRM'
 import { sidebarProdazhi } from './sidebar/sidebarProdazhi'
 import { sidebarSkladZakupki } from './sidebar/sidebarSkladZakupki'
+import { sidebarFinansy } from './sidebar/sidebarFinansy'
+import { sidebarTovary } from './sidebar/sidebarTovary'
 
 export default defineUserConfig({
   base: '/parts-intellect-docs/',
@@ -34,6 +36,8 @@ export default defineUserConfig({
       '/specification/crm/': sidebarCRM,
       '/specification/prodazhi/': sidebarProdazhi,
       '/specification/sklad_i_zakupki/': sidebarSkladZakupki,
+      '/specification/finansy/': sidebarFinansy,
+      'specification/tovary_i_tseny/': sidebarTovary
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',
