@@ -9,6 +9,8 @@ import { sidebarProdazhi } from './sidebar/sidebarProdazhi'
 import { sidebarSkladZakupki } from './sidebar/sidebarSkladZakupki'
 import { sidebarFinansy } from './sidebar/sidebarFinansy'
 import { sidebarTovary } from './sidebar/sidebarTovary'
+import { sidebarAvtoservis } from './sidebar/sidebarAvtoservis'
+import { sidebarOtchety } from './sidebar/sidebarOtchety'
 
 export default defineUserConfig({
   base: '/parts-intellect-docs/',
@@ -37,7 +39,9 @@ export default defineUserConfig({
       '/specification/prodazhi/': sidebarProdazhi,
       '/specification/sklad_i_zakupki/': sidebarSkladZakupki,
       '/specification/finansy/': sidebarFinansy,
-      'specification/tovary_i_tseny/': sidebarTovary
+      'specification/tovary_i_tseny/': sidebarTovary,
+      'specification/avtoservis': sidebarAvtoservis,
+      'specification/otchety_i_analiz': sidebarOtchety
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',
