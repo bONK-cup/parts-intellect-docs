@@ -1,3 +1,7 @@
+---
+title: chto_dalshe
+createTime: 2025/05/08 12:08:48
+---
 # Что дальше
 
 ::: warning Внимание!

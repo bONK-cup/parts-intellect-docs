@@ -1,3 +1,7 @@
+---
+title: scheta_i_kassy
+createTime: 2025/05/08 12:08:48
+---
 # Счета и кассы
 
 ::: warning Внимание!

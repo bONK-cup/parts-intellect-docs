@@ -1,3 +1,7 @@
+---
+title: torgovye_tochki_i_sklady
+createTime: 2025/05/08 12:08:48
+---
 # Торговые точки и склады
 
 ::: warning Внимание!

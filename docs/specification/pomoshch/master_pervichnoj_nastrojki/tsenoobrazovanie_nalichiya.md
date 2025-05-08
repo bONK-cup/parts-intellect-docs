@@ -1,3 +1,7 @@
+---
+title: tsenoobrazovanie_nalichiya
+createTime: 2025/05/08 12:08:48
+---
 # Ценообразование наличия
 
 ::: warning Внимание!

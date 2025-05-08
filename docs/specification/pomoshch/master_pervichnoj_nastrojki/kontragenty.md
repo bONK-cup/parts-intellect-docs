@@ -1,3 +1,7 @@
+---
+title: kontragenty
+createTime: 2025/05/08 12:08:48
+---
 # Контрагенты
 
 ::: warning Внимание!

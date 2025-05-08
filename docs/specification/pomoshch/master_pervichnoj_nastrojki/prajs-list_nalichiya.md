@@ -1,3 +1,7 @@
+---
+title: prajs-list_nalichiya
+createTime: 2025/05/08 12:08:48
+---
 # Прайс-лист наличия
 
 ::: warning Внимание!
