@@ -1,8 +1,7 @@
 ---
-title: obmen_dannymi_s_partsresource
+title: Обмен данными с Parts.Resource
 createTime: 2025/05/06 17:21:56
 ---
-# Обмен данными с Parts.Resource
 Группа содержит настройки передачи данных между программой Parts.Intellect и интернет-магазином Parts.Resource.
 
 ::: info Примечание
