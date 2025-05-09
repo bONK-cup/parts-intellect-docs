@@ -1,8 +1,7 @@
 ---
-title: sql-konsol
+title: SQL-консоль
 createTime: 2025/05/08 12:08:48
 ---
-# SQL-консоль
 Консоль служит для формирования прямых SQL-запросов к базе данных.
 
 ::: info Примечание
@@ -11,4 +10,4 @@ createTime: 2025/05/08 12:08:48
 
 :::
 
-![](image455.png)
+![](../../assets/specification/image455.png)

@@ -427,5 +427,375 @@ export const sidebarUpravlenie = [
         link: '/specification/upravlenie/nastrojki_programmy/nashi_firmy.md'
       }
     ]
+  },
+  {
+    text: 'Настройки пользователя',
+    collapsed: true,
+    items: [
+      {
+        text: 'Вкладка Основные',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_osnovnye.md'
+      },
+      {
+        text: 'Вкладка Документ',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_dokument.md'
+      },
+      {
+        text: 'Вкладка Товар',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_tovar.md'
+      },
+      {
+        text: 'Вкладка Контрагент',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_kontragent.md'
+      },
+      {
+        text: 'Вкладка Проценка',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_protsenka.md'
+      },
+      {
+        text: 'Вкладка Быстрая продажа',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_bystraya_prodazha.md'
+      },
+      {
+        text: 'Вкладка Разное',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_raznoe.md'
+      },
+      {
+        text: 'Вкладка IP-телефония',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_ip-telefoniya.md'
+      },
+      {
+        text: 'Вкладка Ценообразование',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_tsenoobrazovanie.md'
+      },
+      {
+        text: 'Вкладка Диадок',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_diadok.md'
+      },
+      {
+        text: 'Вкладка Заказ-наряд',
+        link: '/specification/upravlenie/nastrojki_polzovatelya/vkladka_zakaz-naryad.md'
+      }
+    ]
+  },
+  {
+    text: 'Торговое оборудование',
+    collapsed: true,
+    items: [
+      {
+        text: 'Справочник торгового оборудования',
+        link: '/specification/upravlenie/torgovoe_oborudovanie/spravochnik_torgovogo_oborudovaniya.md'
+      },
+      {
+        text: 'Правила печати чеков по СНО',
+        link: '/specification/upravlenie/torgovoe_oborudovanie/pravila_pechati_chekov_po_sno.md'
+      }
+    ]
+  },
+  {
+    text: 'Справочники',
+    collapsed: true,
+    items: [
+      {
+        text: 'Сотрудники',
+        link: '/specification/upravlenie/spravochniki/sotrudniki.md'
+      },
+      {
+        text: 'Доверенности на сотрудников',
+        link: '/specification/upravlenie/spravochniki/doverennosti_na_sotrudnikov.md'
+      },
+      {
+        text: 'Должности',
+        link: '/specification/upravlenie/spravochniki/dolzhnosti.md'
+      },
+      {
+        text: 'Подразделения',
+        link: '/specification/upravlenie/spravochniki/podrazdeleniya.md'
+      },
+      {
+        text: 'Формы собственности',
+        link: '/specification/upravlenie/spravochniki/formy_sobstvennosti.md'
+      },
+      {
+        text: 'Счетчики номеров документов',
+        link: '/specification/upravlenie/spravochniki/schetchiki_nomerov_dokumentov.md'
+      },
+      {
+        text: 'Источники обращений',
+        link: '/specification/upravlenie/spravochniki/istochniki_obrashchenij.md'
+      },
+      {
+        text: 'Отметки в документах',
+        link: '/specification/upravlenie/spravochniki/otmetki_v_dokumentakh.md'
+      },
+      {
+        text: 'Подсостояния',
+        link: '/specification/upravlenie/spravochniki/podsostoyaniya.md'
+      },
+      {
+        text: 'Учетные записи email',
+        link: '/specification/upravlenie/spravochniki/uchetnye_zapisi_email.md'
+      },
+      {
+        text: 'Сервисы отправки сообщений',
+        link: '/specification/upravlenie/spravochniki/servisy_otpravki_soobshchenij.md'
+      },
+      {
+        text: 'Учетные записи FTP',
+        link: '/specification/upravlenie/spravochniki/uchetnye_zapisi_ftp.md'
+      },
+      {
+        text: 'Состояния задач',
+        link: '/specification/upravlenie/spravochniki/sostoyaniya_zadach.md'
+      },
+      {
+        text: 'Вид задачи',
+        link: '/specification/upravlenie/spravochniki/vid_zadachi.md'
+      },
+      {
+        text: 'Статусы клиента',
+        link: '/specification/upravlenie/spravochniki/statusy_klienta.md'
+      },
+      {
+        text: 'Доверенности клиентов',
+        link: '/specification/upravlenie/spravochniki/doverennosti_klientov.md'
+      },
+      {
+        text: 'Способы доставки',
+        link: '/specification/upravlenie/spravochniki/sposoby_dostavki.md'
+      },
+      {
+        text: 'Доставки по направлениям и складам',
+        link: '/specification/upravlenie/spravochniki/dostavki_po_napravleniyam_i_skladam.md'
+      },
+      {
+        text: 'Стоимости доставок',
+        link: '/specification/upravlenie/spravochniki/stoimosti_dostavok.md'
+      },
+      {
+        text: 'Графики поставок',
+        link: '/specification/upravlenie/spravochniki/grafiki_postavok.md'
+      },
+      {
+        text: 'Таможенные декларации',
+        link: '/specification/upravlenie/spravochniki/tamozhennye_deklaratsii.md'
+      },
+      {
+        text: 'Марки, модели',
+        link: '/specification/upravlenie/spravochniki/marki_modeli.md'
+      },
+      {
+        text: 'Модификации',
+        link: '/specification/upravlenie/spravochniki/modifikatsii.md'
+      }
+    ]
+  },
+  {
+    text: 'Словари и классификаторы',
+    collapsed: true,
+    items: [
+      {
+        text: 'Единицы измерения',
+        link: '/specification/upravlenie/slovari_i_klassifikatory/edinitsy_izmereniya.md'
+      },
+      {
+        text: 'Страны',
+        link: '/specification/upravlenie/slovari_i_klassifikatory/strany.md'
+      },
+      {
+        text: 'Города',
+        link: '/specification/upravlenie/slovari_i_klassifikatory/goroda.md'
+      },
+      {
+        text: 'Виды топлива',
+        link: '/specification/upravlenie/slovari_i_klassifikatory/vidy_topliva.md'
+      },
+      {
+        text: 'Типы КПП',
+        link: '/specification/upravlenie/slovari_i_klassifikatory/tipy_kpp.md'
+      },
+      {
+        text: 'Типы тормозов',
+        link: '/specification/upravlenie/slovari_i_klassifikatory/tipy_tormozov.md'
+      },
+      {
+        text: 'Типы привода',
+        link: '/specification/upravlenie/slovari_i_klassifikatory/tipy_privoda.md'
+      },
+      {
+        text: 'типы рулевого управления',
+        link: '/specification/upravlenie/slovari_i_klassifikatory/tipy_rulevogo_upravleniya.md'
+      },
+      {
+        text: 'Типы кузова',
+        link: '/specification/upravlenie/slovari_i_klassifikatory/tipy_kuzova.md'
+      },
+      {
+        text: 'Сборочные группы',
+        link: '/specification/upravlenie/slovari_i_klassifikatory/sborochnye_gruppy.md'
+      }
+    ]
+  },
+  {
+    text: 'Журналы',
+    collapsed: true,
+    items: [
+      {
+        text: 'Общий журнал',
+        link: '/specification/upravlenie/zhurnaly/obshchij_zhurnal.md'
+      },
+      {
+        text: 'Блокировки',
+        link: '/specification/upravlenie/zhurnaly/blokirovki.md'
+      },
+      {
+        text: 'Внутренние резервы',
+        link: '/specification/upravlenie/zhurnaly/vnutrennie_rezervy.md'
+      },
+      {
+        text: 'Минимальные запасы товаров',
+        link: '/specification/upravlenie/zhurnaly/minimalnye_zapasy_tovarov.md'
+      },
+      {
+        text: 'Архив документов',
+        link: '/specification/upravlenie/zhurnaly/arkhiv_dokumentov.md'
+      },
+      {
+        text: 'Смена подсостояний',
+        link: '/specification/upravlenie/zhurnaly/smena_podsostoyanij.md'
+      },
+      {
+        text: 'Отметки',
+        link: '/specification/upravlenie/zhurnaly/otmetki.md'
+      },
+      {
+        text: 'Сессии пользователей',
+        link: '/specification/upravlenie/zhurnaly/sessii_polzovatelej.md'
+      },
+      {
+        text: 'Действия',
+        link: '/specification/upravlenie/zhurnaly/dejstviya.md'
+      },
+      {
+        text: 'Товарные транзакции',
+        link: '/specification/upravlenie/zhurnaly/tovarnye_tranzaktsii.md'
+      },
+      {
+        text: 'Финансовые транзакции',
+        link: '/specification/upravlenie/zhurnaly/finansovye_tranzaktsii.md'
+      },
+      {
+        text: 'Установленные обновления БД',
+        link: '/specification/upravlenie/zhurnaly/ustanovlennye_obnovleniya_bd.md'
+      },
+      {
+        text: 'Маркировки',
+        link: '/specification/upravlenie/zhurnaly/markirovki.md'
+      }
+    ]
+  },
+  {
+    text: 'Импорт данных',
+    collapsed: true,
+    items: [
+      {
+        text: 'Мастер импорта данных из базы УТАП',
+        link: '/specification/upravlenie/import_dannykh/master_importa_dannykh_iz_bazy_utap.md'
+      },
+      {
+        text: 'Мастер импорта данных из базы Стола заказов',
+        link: '/specification/upravlenie/import_dannykh/master_importa_dannykh_iz_bazy_stola_zakazov.md'
+      },
+      {
+        text: 'Инициализация справочников, словарей и классификаторов',
+        link: '/specification/upravlenie/import_dannykh/initsializatsiya_spravochnikov_slovarej_i_klassifikatorov.md'
+      }
+    ]
+  },
+  {
+    text: 'Интернет-магазин Parts.Resource',
+    collapsed: true,
+    items: [
+      {
+        text: 'Правила для новых клиентов сайта',
+        link: '/specification/upravlenie/internet-magazin_parts_resource/pravila_dlya_novykh_klientov_sajta.md'
+      },
+      {
+        text: 'Способы оплаты',
+        link: '/specification/upravlenie/internet-magazin_parts_resource/sposoby_oplaty.md'
+      }
+    ]
+  },
+  {
+    text: 'Диагностика программы',
+    collapsed: true,
+    items: [
+      {
+        text: 'Мастер поиска ошибочных транзакций',
+        link: '/specification/upravlenie/diagnostika_programmy/master_poiska_oshibochnykh_tranzaktsij.md'
+      },
+      {
+        text: 'Диагностика записей помеченных на удаление',
+        link: '/specification/upravlenie/diagnostika_programmy/diagnostika_zapisej_pomechennykh_na_udalenie.md'
+      },
+      {
+        text: 'Проверить работоспособность веб-проценки',
+        link: '/specification/upravlenie/diagnostika_programmy/proverit_rabotosposobnost_veb-protsenki.md'
+      },
+      {
+        text: 'Удалить помеченные записи',
+        link: '/specification/upravlenie/diagnostika_programmy/udalit_pomechennye_zapisi.md'
+      }
+    ]
+  },
+  {
+    text: 'Профилирование быстродействия',
+    link: '/specification/upravlenie/profilirovanie_bystrodejstviya.md'
+  },
+  {
+    text: 'Профилирование оперативной памяти',
+    link: '/specification/upravlenie/profilirovanie_operativnoj_pamyati.md'
+  },
+  {
+    text: 'Исправление и восстановление',
+    collapsed: true,
+    items: [
+      {
+        text: 'Исправление количества в приходах',
+        link: '/specification/upravlenie/ispravlenie_i_vosstanovlenie/ispravlenie_kolichestva_v_prikhodakh.md'
+      },
+      {
+        text: 'Мастер исправления сбойных транзакций',
+        link: '/specification/upravlenie/ispravlenie_i_vosstanovlenie/master_ispravleniya_sbojnykh_tranzaktsij.md'
+      },
+      {
+        text: 'Восстановить колонки по умолчанию',
+        link: '/specification/upravlenie/ispravlenie_i_vosstanovlenie/vosstanovit_kolonki_po_umolchaniyu.md'
+      },
+      {
+        text: 'Восстановить пользовательское меню',
+        link: '/specification/upravlenie/ispravlenie_i_vosstanovlenie/vosstanovit_polzovatelskoe_glavnoe_menyu.md'
+      },
+      {
+        text: 'Восстановить панели и фильтры в мастерах',
+        link: '/specification/upravlenie/ispravlenie_i_vosstanovlenie/vosstanovit_paneli_i_filtry_v_masterakh.md'
+      },
+      {
+        text: 'Восстановить панели в проценке',
+        link: '/specification/upravlenie/ispravlenie_i_vosstanovlenie/vosstanovit_paneli_v_protsenke.md'
+      }
+    ]
+  },
+  {
+    text: 'SQL-консоль',
+    link: '/specification/upravlenie/sql-konsol.md'
+  },
+  {
+    text: 'Утилита настройки службы Parts.Intellect',
+    link: '/specification/upravlenie/utilita_nastrojki_sluzhby_partsintellect.md'
+  },
+  {
+    text: 'Список доступных модулей',
+    link: '/specification/upravlenie/spisok_dostupnykh_modulej.md'
   }
 ] 
