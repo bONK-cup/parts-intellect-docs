@@ -11,7 +11,12 @@ export const navbar = defineNavbarConfig([
   },
   {
     text: 'Работа с программой',
-    link: '/blog/archives/'
+    items: [
+      {
+        text: 'Работа со своим наличием',
+        link: '/work/rabota_so_svoim_nalichiem_v_magazinakh_i_skladakh/README.md'
+      }
+    ]
   },
   {
     text: 'Описание разделов',

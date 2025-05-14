@@ -11,6 +11,7 @@ import { sidebarFinansy } from './sidebar/sidebarFinansy'
 import { sidebarTovary } from './sidebar/sidebarTovary'
 import { sidebarAvtoservis } from './sidebar/sidebarAvtoservis'
 import { sidebarOtchety } from './sidebar/sidebarOtchety'
+import { sidebarNalichie } from './sidebar/work/sidebarNalichie'
 
 export default defineUserConfig({
   base: '/parts-intellect-docs/',
@@ -33,15 +34,16 @@ export default defineUserConfig({
     notes: false,
     sidebar: {
       '/guide/': sidebarGuide,
-      '/specification/obshchie_printsipy': sidebarObshchiePrintsipy,
+      '/specification/obshchie_printsipy/': sidebarObshchiePrintsipy,
       '/specification/upravlenie/': sidebarUpravlenie,
       '/specification/crm/': sidebarCRM,
       '/specification/prodazhi/': sidebarProdazhi,
       '/specification/sklad_i_zakupki/': sidebarSkladZakupki,
       '/specification/finansy/': sidebarFinansy,
       'specification/tovary_i_tseny/': sidebarTovary,
-      'specification/avtoservis': sidebarAvtoservis,
-      'specification/otchety_i_analiz': sidebarOtchety
+      'specification/avtoservis/': sidebarAvtoservis,
+      'specification/otchety_i_analiz/': sidebarOtchety,
+      'work/rabota_so_svoim_nalichiem_v_magazinakh_i_skladakh/': sidebarNalichie
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',
