@@ -15,6 +15,10 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Работа со своим наличием',
         link: '/work/rabota_so_svoim_nalichiem_v_magazinakh_i_skladakh/README.md'
+      },
+      {
+        text: 'Перепродажа между фирмами',
+        link: '/work/pereprodazha/'
       }
     ]
   },
