@@ -44,7 +44,7 @@ export default defineUserConfig({
       '/specification/tovary_i_tseny/': sidebarTovary,
       '/specification/avtoservis/': sidebarAvtoservis,
       '/specification/otchety_i_analiz/': sidebarOtchety,
-      '/work/rabota_so_svoim_nalichiem_v_magazinakh_i_skladakh/': sidebarNalichie,
+      '/work/svoe_nalichie/': sidebarNalichie,
       '/work/pereprodazha/': sidebarPereprodazha
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */

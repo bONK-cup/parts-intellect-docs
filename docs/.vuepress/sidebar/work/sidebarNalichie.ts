@@ -56,5 +56,101 @@ export const sidebarNalichie = [
   {
     text: 'Импорт остатков из файла',
     link: '/work/svoe_nalichie/import_ostatkov_iz_fajla.md'
+  },
+  {
+    text: 'Формирование наличия на разных схемах ЦО',
+    collapsed: true,
+    items: [
+      {
+        text: 'Основная информация',
+        link: '/work/svoe_nalichie/osobennosti_formirovaniya/README.md'
+      },
+      {
+        text: 'Сравнение схем ценообразования',
+        link: '/work/svoe_nalichie/osobennosti_formirovaniya/sravnenie_skhem_tsenoobrazovaniya.md'
+      },
+      {
+        text: 'Расширенная схема ценообразование',
+        link: '/work/svoe_nalichie/osobennosti_formirovaniya/rasshirennaya_skhema_tsenoobrazovaniya.md'
+      },
+      {
+        text: 'Партионная схема ценообразования',
+        link: '/work/svoe_nalichie/osobennosti_formirovaniya/partionnaya_skhema_tsenoobrazovaniya.md'
+      },
+      {
+        text: 'Гибкая схема ценообразования',
+        link: '/work/svoe_nalichie/osobennosti_formirovaniya/gibkaya_skhema_tsenoobrazovaniya.md'
+      },
+      {
+        text: 'Смена схемы ценообразования',
+        link: '/work/svoe_nalichie/osobennosti_formirovaniya/smena_skhemy_tsenoobrazovaniya.md'
+      }
+    ]
+  },
+  {
+    text: 'Управление наличием товара',
+    collapsed: true,
+    items: [
+      {
+        text: 'Установка значений "минимального запаса" и "точки заказа" для товаров',
+        link: '/work/svoe_nalichie/upravlenie_nalichiem/ustanovka_znachenij_minimalnogo_zapasa.md'
+      },
+      {
+        text: 'Массовое изменение минимальных остатков и мест хранения',
+        link: '/work/svoe_nalichie/upravlenie_nalichiem/massovoe_izmenenie_minimalnykh_ostatkov.md'
+      },
+      {
+        text: 'Формирование заказа через Мастер заказов на склад',
+        link: '/work/svoe_nalichie/upravlenie_nalichiem/formirovanie_zakaza.md'
+      },
+      {
+        text: 'Инвентаризация',
+        collapsed: true,
+        items: [
+          {
+            text: 'Проведение инвентаризации',
+            link: '/work/svoe_nalichie/upravlenie_nalichiem/inventarizatsiya/provedenie_inventarizatsii.md'
+          },
+          {
+            text: 'Добавление фактического количества товара',
+            link: '/work/svoe_nalichie/upravlenie_nalichiem/inventarizatsiya/dobavlenie_informatsii.md'
+          }
+        ]
+      },
+      {
+        text: 'Списание товаров',
+        link: '/work/svoe_nalichie/upravlenie_nalichiem/spisanie_tovarov.md'
+      }
+    ]
+  },
+  {
+    text: 'Перемещение товара',
+    collapsed: true,
+    items: [
+      {
+        text: 'Описание документа Перемешение',
+        link: '/work/svoe_nalichie/peremeshchenie_tovara/README.md'
+      },
+      {
+        text: 'Перемещение на основании Приходной накладной',
+        link: '/work/svoe_nalichie/peremeshchenie_tovara/peremeshchenie_na_osnovanii_prikhodnoj_nakladnoj.md'
+      },
+      {
+        text: 'Мастер создания перемещения',
+        link: '/work/svoe_nalichie/peremeshchenie_tovara/master_sozdaniya_peremeshcheniya.md'
+      },
+      {
+        text: 'Перемещение из списка Перемещения товаров',
+        link: '/work/svoe_nalichie/peremeshchenie_tovara/peremeshcheniye_iz_spiska_peremeshcheniya_tovarov.md'
+      },
+    ]
+  },
+  {
+    text: 'Задание на разбор товара',
+    link: '/work/svoe_nalichie/zadanie_na_razbor_tovara.md'
+  },
+  {
+    text: 'Формирование своего прайс-листа',
+    link: '/work/svoe_nalichie/formirovanie_svoego_prajs-lista.md'
   }
 ]
