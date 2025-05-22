@@ -19,6 +19,14 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Перепродажа между фирмами',
         link: '/work/pereprodazha/'
+      },
+      {
+        text: 'Работа с прайс-листами поставщиков',
+        link: '/work/prajsy_postavshchikov/'
+      },
+      {
+        text: 'Работа с маркировкой',
+        link: '/work/markirovka/'
       }
     ]
   },
