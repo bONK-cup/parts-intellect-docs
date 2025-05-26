@@ -27,6 +27,14 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Работа с маркировкой',
         link: '/work/markirovka/'
+      },
+      {
+        text: 'Настройка ценообразования для прайс-листов',
+        link: '/work/tsenoobrazovanie/'
+      },
+      {
+        text: 'Работа со списком клиентов',
+        link: '/work/klienty/'
       }
     ]
   },

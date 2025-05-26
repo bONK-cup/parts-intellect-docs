@@ -15,6 +15,8 @@ import { sidebarNalichie } from './sidebar/work/sidebarNalichie'
 import { sidebarPereprodazha } from './sidebar/work/sidebarPereprodazha'
 import { sidebarPrajsyPostavshchikov } from './sidebar/work/sidebarPrajsyPostavshchikov'
 import { sidebarMarkirovka } from './sidebar/work/sidebarMarkirovka'
+import { sidebarMarketing } from './sidebar/work/sidebarMarketing'
+import { sidebarKlienty } from './sidebar/work/sidebarKLienty'
 
 export default defineUserConfig({
   base: '/parts-intellect-docs/',
@@ -49,7 +51,9 @@ export default defineUserConfig({
       '/work/svoe_nalichie/': sidebarNalichie,
       '/work/pereprodazha/': sidebarPereprodazha,
       '/work/markirovka/': sidebarMarkirovka,
-      '/work/prajsy_postavshchikov': sidebarPrajsyPostavshchikov
+      '/work/prajsy_postavshchikov': sidebarPrajsyPostavshchikov,
+      '/work/tsenoobrazovanie/': sidebarMarketing,
+      '/work/klienty/': sidebarKlienty,
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',
