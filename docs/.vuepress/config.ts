@@ -17,6 +17,7 @@ import { sidebarPrajsyPostavshchikov } from './sidebar/work/sidebarPrajsyPostavs
 import { sidebarMarkirovka } from './sidebar/work/sidebarMarkirovka'
 import { sidebarMarketing } from './sidebar/work/sidebarMarketing'
 import { sidebarKlienty } from './sidebar/work/sidebarKLienty'
+import { sidebarZakazy } from './sidebar/work/sidebarZakazy'
 
 export default defineUserConfig({
   base: '/parts-intellect-docs/',
@@ -54,6 +55,7 @@ export default defineUserConfig({
       '/work/prajsy_postavshchikov': sidebarPrajsyPostavshchikov,
       '/work/tsenoobrazovanie/': sidebarMarketing,
       '/work/klienty/': sidebarKlienty,
+      '/work/zakazy/': sidebarZakazy
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',

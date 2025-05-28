@@ -35,6 +35,10 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Работа со списком клиентов',
         link: '/work/klienty/'
+      },
+      {
+        text: 'Создание и обработка заказов клиентов',
+        link: '/work/zakazy/'
       }
     ]
   },
