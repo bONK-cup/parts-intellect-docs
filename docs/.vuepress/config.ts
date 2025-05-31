@@ -19,6 +19,7 @@ import { sidebarMarketing } from './sidebar/work/sidebarMarketing'
 import { sidebarKlienty } from './sidebar/work/sidebarKLienty'
 import { sidebarZakazy } from './sidebar/work/sidebarZakazy'
 import { sidebarVzaimoraschety } from './sidebar/work/sidebarVzaimoraschety'
+import { sidebarPostavshchiki } from './sidebar/work/sidebarPostavshchiki'
 
 export default defineUserConfig({
   base: '/parts-intellect-docs/',
@@ -58,6 +59,7 @@ export default defineUserConfig({
       '/work/klienty/': sidebarKlienty,
       '/work/zakazy/': sidebarZakazy,
       '/work/vzaimoraschety/': sidebarVzaimoraschety,
+      '/work/postavshchiki/': sidebarPostavshchiki,
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',

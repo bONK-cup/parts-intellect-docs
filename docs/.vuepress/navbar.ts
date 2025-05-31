@@ -43,6 +43,10 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Взаиморасчеты в системе',
         link: '/work/vzaimoraschety/'
+      },
+      {
+        text: 'Работа с поставщиками',
+        link: '/work/postavshchiki/'
       }
     ]
   },
