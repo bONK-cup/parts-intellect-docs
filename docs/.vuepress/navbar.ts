@@ -51,6 +51,10 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Работа со справочниками',
         link: '/work/spravochniki/'
+      },
+      {
+        text: 'Работа с проценкой',
+        link: '/work/protsenka/'
       }
     ]
   },
