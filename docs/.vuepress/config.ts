@@ -22,6 +22,9 @@ import { sidebarVzaimoraschety } from './sidebar/work/sidebarVzaimoraschety'
 import { sidebarPostavshchiki } from './sidebar/work/sidebarPostavshchiki'
 import { sidebarSpravochniki } from './sidebar/work/sidebarSpravochniki'
 import { sidebarProtsenka } from './sidebar/work/sidebarProtsenka'
+import { sidebarNomenklatura } from './sidebar/work/sidebarNomenklatura'
+import { sidebarProizvoditeli } from './sidebar/work/sidebarProizvoditeli'
+import { sidebarOtgruzka } from './sidebar/work/sidebarOtgruzka'
 
 export default defineUserConfig({
   base: '/parts-intellect-docs/',
@@ -64,6 +67,9 @@ export default defineUserConfig({
       '/work/postavshchiki/': sidebarPostavshchiki,
       '/work/spravochniki/': sidebarSpravochniki,
       '/work/protsenka': sidebarProtsenka,
+      '/work/nomenklatura/': sidebarNomenklatura,
+      '/work/proizvoditeli/': sidebarProizvoditeli,
+      '/work/otgruzka_so_sklada/': sidebarOtgruzka,
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',

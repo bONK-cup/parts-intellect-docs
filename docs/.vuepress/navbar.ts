@@ -55,6 +55,18 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Работа с проценкой',
         link: '/work/protsenka/'
+      },
+      {
+        text: 'Работа с номенклатурой',
+        link: '/work/nomenklatura/'
+      },
+      {
+        text: 'Работа с производителями',
+        link: '/work/proizvoditeli/'
+      },
+      {
+        text: 'Отгрузка товара со склада',
+        link: '/work/otgruzka_so_sklada/'
       }
     ]
   },
