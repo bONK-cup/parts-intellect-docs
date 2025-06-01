@@ -8,8 +8,8 @@ export const sidebarProdazhi = [
     link: '/specification/prodazhi/bystraja_prodazha.md'
   },
   {
-    text: 'Новая Расходная накладная',
-    link: '/specification/prodazhi/novajya_rashodnaja_nakladnaja.md'
+    text: 'Расходная накладная',
+    link: '/specification/prodazhi/rashodnaja_nakladnaja.md'
   },
   {
     text: 'Новый Возврат от клиента',

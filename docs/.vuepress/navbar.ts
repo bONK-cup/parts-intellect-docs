@@ -67,6 +67,14 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Отгрузка товара со склада',
         link: '/work/otgruzka_so_sklada/'
+      },
+      {
+        text: 'Работа модуля автосервис',
+        link: '/work/avtoservis/'
+      },
+      {
+        text: 'Экспортные и импортные функции системы',
+        link: '/work/export_import/'
       }
     ]
   },

@@ -25,6 +25,8 @@ import { sidebarProtsenka } from './sidebar/work/sidebarProtsenka'
 import { sidebarNomenklatura } from './sidebar/work/sidebarNomenklatura'
 import { sidebarProizvoditeli } from './sidebar/work/sidebarProizvoditeli'
 import { sidebarOtgruzka } from './sidebar/work/sidebarOtgruzka'
+import { sidebarAvtoservisWork } from './sidebar/work/sidebarAvtoservisWork'
+import { sidebarExportImport } from './sidebar/work/sidebarExportImport'
 
 export default defineUserConfig({
   base: '/parts-intellect-docs/',
@@ -70,6 +72,8 @@ export default defineUserConfig({
       '/work/nomenklatura/': sidebarNomenklatura,
       '/work/proizvoditeli/': sidebarProizvoditeli,
       '/work/otgruzka_so_sklada/': sidebarOtgruzka,
+      '/work/avtoservis/': sidebarAvtoservisWork,
+      '/work/export_import': sidebarExportImport,
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',
