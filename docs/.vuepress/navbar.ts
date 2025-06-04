@@ -75,6 +75,14 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Экспортные и импортные функции системы',
         link: '/work/export_import/'
+      },
+      {
+        text: 'Информационная рассылка',
+        link: '/work/rassylka/'
+      },
+      {
+        text: 'Работа с торговым оборудованием',
+        link: '/work/torgovoe_oborudovanie/'
       }
     ]
   },
