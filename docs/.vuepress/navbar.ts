@@ -83,6 +83,10 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Работа с торговым оборудованием',
         link: '/work/torgovoe_oborudovanie/'
+      },
+      {
+        text: 'Отчеты в системе',
+        link: '/work/otchety/'
       }
     ]
   },
