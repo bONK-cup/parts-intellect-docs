@@ -30,6 +30,9 @@ import { sidebarExportImport } from './sidebar/work/sidebarExportImport'
 import { sidebarRassylka } from './sidebar/work/sidebarRassylka'
 import { sidebarOborudovanie } from './sidebar/work/sidebarOborudovanie'
 import { sidebarOtchetyWork } from './sidebar/work/sidebarOtchetyWork'
+import { sidebarShablony } from './sidebar/work/sidebarShablony'
+import { sidebarPechatFormy } from './sidebar/work/sidebarPechatFormy'
+import { sidebarOshibki } from './sidebar/work/sidebarOshibki'
 
 export default defineUserConfig({
   base: '/parts-intellect-docs/',
@@ -80,6 +83,9 @@ export default defineUserConfig({
       '/work/rassylka/': sidebarRassylka,
       '/work/torgovoe_oborudovanie/': sidebarOborudovanie,
       '/work/otchety/': sidebarOtchetyWork,
+      '/work/polzovatelskie_shablony/': sidebarShablony,
+      '/work/pechatnye_formy': sidebarPechatFormy,
+      '/work/oshibki/': sidebarOshibki,
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',

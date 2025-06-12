@@ -87,6 +87,18 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Отчеты в системе',
         link: '/work/otchety/'
+      },
+      {
+        text: 'Пользовательские печатные шаблоны',
+        link: '/work/polzovatelskie_shablony/'
+      },
+      {
+        text: 'Работа с печатными формами',
+        link: '/work/pechatnye_formy/'
+      },
+      {
+        text: 'Возможные ошибки и решения',
+        link: '/work/oshibki/'
       }
     ]
   },
