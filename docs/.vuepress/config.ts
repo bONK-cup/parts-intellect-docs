@@ -33,6 +33,8 @@ import { sidebarOtchetyWork } from './sidebar/work/sidebarOtchetyWork'
 import { sidebarShablony } from './sidebar/work/sidebarShablony'
 import { sidebarPechatFormy } from './sidebar/work/sidebarPechatFormy'
 import { sidebarOshibki } from './sidebar/work/sidebarOshibki'
+import { sidebarUpravlenieBD } from './sidebar/work/sidebarUpravlenieBD'
+import { sidebarServer } from './sidebar/work/sidebarServer'
 
 export default defineUserConfig({
   base: '/parts-intellect-docs/',
@@ -86,6 +88,8 @@ export default defineUserConfig({
       '/work/polzovatelskie_shablony/': sidebarShablony,
       '/work/pechatnye_formy': sidebarPechatFormy,
       '/work/oshibki/': sidebarOshibki,
+      '/work/bd/': sidebarUpravlenieBD,
+      '/work/server/': sidebarServer
     },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     // hostname: 'https://your_site_url',

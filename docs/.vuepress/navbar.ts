@@ -99,6 +99,14 @@ export const navbar = defineNavbarConfig([
       {
         text: 'Возможные ошибки и решения',
         link: '/work/oshibki/'
+      },
+      {
+        text: 'Управление базами данных',
+        link: '/work/bd/'
+      },
+      {
+        text: 'Работа с сервером программы',
+        link: '/work/server/'
       }
     ]
   },
