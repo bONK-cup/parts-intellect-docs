@@ -90,10 +90,6 @@ export const sidebarObshchiePrintsipy = [
       {
         text: 'Печать шаблона на заранее определенный принтер',
         link: '/specification/obshchie_printsipy/printing/pechat_shablona_na_zaranee_opredelennyj_printer.md'
-      },
-      {
-        text: 'Расположение бланков',
-        link: '/specification/obshchie_printsipy/printing/raspolozhenie_blankov.md'
       }
     ]
   }
