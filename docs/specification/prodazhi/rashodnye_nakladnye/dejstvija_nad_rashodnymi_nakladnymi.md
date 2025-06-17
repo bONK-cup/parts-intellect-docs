@@ -16,7 +16,7 @@ createTime: 2025/04/23 09:19:31
 
 ![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.482.png)
 
-Позволяет открыть окно [инспектора](#b6ebaebc-2813-4c71-b41a-0c6c19030fbe) для добавления нового документа **Расходная накладная**.
+Позволяет открыть окно [инспектора](./inspektor_dobavlenija_novoj_rashodnoj_nakladnoj.md) для добавления нового документа **Расходная накладная**.
 
 ![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.008.png) **Править**
 
@@ -223,7 +223,7 @@ Microsoft Excel 2007-2013 (\*.xlsx, \*.xlsm);
 
 - **Печать этикеток** – позволяет открыть окно **Мастер печати**, в котором содержатся шаблоны этикеток, доступных для печати.
 
-![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.500.png)
+![](../../../assets/specification/raskhodnye_nakladnye_dejstviya_nad_raskhodnymi_nakladnymi_1.png)
 
 ![](../../../assets/specification/Aspose.Words.83ab1c44-6b28-430a-a5f2-4d9e6ba1abd4.043.png) **Помощь**
 
