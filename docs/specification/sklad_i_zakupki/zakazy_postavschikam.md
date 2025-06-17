@@ -184,13 +184,15 @@ createTime: 2025/04/30 15:32:17
 
 - созданный и настроенный Telegram-бот;
 
-- установленный и подключенный Сервер Parts.Intellect. Подробнее в разделе [Установка Сервера Parts.Intellect](#678abee0-5d3e-466d-8a1b-d556b23a5110).
+- установленный и подключенный Сервер Parts.Intellect. Подробнее в разделе [Установка Сервера Parts.Intellect](../../work/server/ustanovka_servera.md).
 
 Подробнее о работе модуля читайте в [руководстве пользователя](https://product-doc.tradesoft.ru/ai/telegram/index.htm).
 
 :::
 
 - **Печать** – позволяет открыть окно **Мастер печати** и сформировать печатные бланки** для заказов поставщикам;
+
+![](../../assets/specification/sklad_i_zakupki_zakazy_postavshchikam_1.png)
 
 - **Прочее** – содержит выпадающий список команд:
 
