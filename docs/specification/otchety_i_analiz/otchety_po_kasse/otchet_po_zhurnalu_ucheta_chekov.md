@@ -15,4 +15,3 @@ createTime: 2025/05/06 13:12:41
 - [Создание Отчета по журналу учета чеков](../../../work/otchety/po_kasse/po_zhurnalu_ucheta_chekov.md)
 
 :::
-
