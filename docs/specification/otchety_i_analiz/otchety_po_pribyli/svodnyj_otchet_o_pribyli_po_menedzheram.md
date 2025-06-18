@@ -6,11 +6,16 @@ createTime: 2025/05/06 12:55:42
 
 Доступны следующие печатные бланки:
 
-**Сводный отчет о прибыли по менеджерам**;
+- **Сводный отчет о прибыли по менеджерам**;
 
-**Сводный отчет о прибыли по менеджерам с учетом признака возврата**.
+- **Сводный отчет о прибыли по менеджерам с учетом признака возврата**.
 
-![](../../../assets/specification/image074.png)
+![](../../../assets/specification/svodnyj_otchet_o_pribyli_po_menedzheram_1.png)
 
+::: details Читайте также
 
+- [Общие принципы формирования отчетов](../obshchie_printsipy_formirovaniya_otchetov.md)
 
+- [Создание Сводного отчета о прибыли по менеджерам](../../../work/otchety/po_pribyli/svodnyj_otchet_o_pribyli_po_menedzheram.md)
+
+:::

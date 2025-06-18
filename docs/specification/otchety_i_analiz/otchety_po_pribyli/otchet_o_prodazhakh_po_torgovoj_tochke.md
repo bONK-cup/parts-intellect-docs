@@ -10,7 +10,12 @@ createTime: 2025/05/06 12:55:42
 
 :::
 
-![](../../../assets/specification/image073.png)
+![](../../../assets/specification/otchet_o_prodazhakh_po_torgovoj_tochke_1.png)
 
+::: details 
 
+- [Общие принципы формирования отчетов](../obshchie_printsipy_formirovaniya_otchetov.md)
 
+- [Создание Отчета о продажах по торговой точке](../../../work/otchety/po_pribyli/o_prodazhakh_po_torgovoj_tochke.md)
+
+:::
