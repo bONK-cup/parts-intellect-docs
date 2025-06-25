@@ -16,8 +16,8 @@ createTime: 2025/05/06 14:09:34
 
 ::: details Читайте также
 
-[Общие принципы формирования отчетов](../obshchie_printsipy_formirovaniya_otchetov.md)
+- [Общие принципы формирования отчетов](../obshchie_printsipy_formirovaniya_otchetov.md)
 
-[Создание отчета Товар в заказе поставщику](../../../work/otchety/po_postavshchikam/tovar/tovar_v_zakaze_postavshchiku.md)
+- [Создание отчета Товар в заказе поставщику](../../../work/otchety/po_postavshchikam/tovar/tovar_v_zakaze_postavshchiku.md)
 
 :::
