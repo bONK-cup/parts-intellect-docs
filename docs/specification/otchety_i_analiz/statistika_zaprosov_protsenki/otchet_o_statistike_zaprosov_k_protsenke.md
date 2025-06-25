@@ -6,11 +6,16 @@ createTime: 2025/05/06 14:30:47
 
 ::: warning Внимание!
 
-Сбор статистики и формирование отчетов по **Контексту** – **Интернет-магазин** не производится.
+Сбор статистики и формирование отчетов по **Контексту ► Интернет-магазин** не производится.
 
 :::
 
-![](../../../assets/specification/image120.png)
+![](../../../assets/specification/otchet_o_statistike_zaprosov_k_protsenke_1.png)
 
+::: details Читайте также
 
+- [Общие принципы формирования отчетов](../obshchie_printsipy_formirovaniya_otchetov.md)
 
+- [Формирование отчета Статистики запросов проценки](../../../work/otchety/zaprosy_protsenki/statistika_zaprosov_protsenki.md)
+
+:::
