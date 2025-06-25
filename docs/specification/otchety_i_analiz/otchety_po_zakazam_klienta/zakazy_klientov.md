@@ -12,7 +12,12 @@ createTime: 2025/05/06 14:04:29
 
 - **Отчет по работе по заданному периоду** – содержит подробные данные по заказам клиентов за выбранный период.
 
-![](../../../assets/specification/image105.png)
+![](../../../assets/specification/zakazy_klientov_otchety_po_zakazam_klienta_1.png)
 
+::: details Читайте также
 
+- [Общие принципы формирования отчетов](../obshchie_printsipy_formirovaniya_otchetov.md)
 
+- [Создание отчета Заказы клиентов](../../../work/otchety/po_zakazam_klientov/zakazy/otchet_po_rabote_po_zadannomu_periodu.md)
+
+:::

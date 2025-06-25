@@ -10,7 +10,12 @@ createTime: 2025/05/06 14:08:18
 
 - **Общая стоимость позиций по производителям**.
 
-![](../../../assets/specification/image108.png)
+![](../../../assets/specification/zakazy_postavshchikam_v_razreze_prajs_listov_1.png)
 
+::: details Читайте также
 
+[Общие принципы формирования отчетов](../obshchie_printsipy_formirovaniya_otchetov.md)
 
+[Создание отчета Заказы поставщикам в разрезе прайс-листов](../../../work/otchety/po_postavshchikam/zakazy_postavshchikam_v_razreze_prajs-listov.md)
+
+:::

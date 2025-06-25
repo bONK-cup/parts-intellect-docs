@@ -4,7 +4,12 @@ createTime: 2025/05/06 13:55:21
 ---
 Отчет об остатках товара в разрезе выбранных настроек позволяет оценить наличие товаров на выбранных Складах, Торговых точках или Местах хранения, а также рентабельность товаров на складах.
 
-![](../../../assets/specification/image098.png)
+![](../../../assets/specification/otchet_ob_ostatkakh_1.png)
 
+::: details Читайте также
 
+- [Общие принципы формирования отчетов](../obshchie_printsipy_formirovaniya_otchetov.md)
 
+- [Создание Отчета об остатках](../../../work/otchety/skladskie_otchety/ob_ostatkakh.md)
+
+:::
