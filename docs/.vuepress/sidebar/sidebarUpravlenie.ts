@@ -213,6 +213,10 @@ export const sidebarUpravlenie = [
             collapsed: true,
             items: [
               {
+                text: 'Веб-прайс-листы поставщиков',
+                link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/prajs-listy/veb_prajs_listy_postavshchikov.md'
+              },
+              {
                 text: 'Основные разрешения',
                 link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/prajs-listy/README.md'
               },
@@ -265,16 +269,24 @@ export const sidebarUpravlenie = [
                 link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/spravochniki/README.md'
               },
               {
+                text: 'Группы товаров',
+                link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/spravochniki/gruppy_tovarov.md'
+              },
+              {
                 text: 'Контрагенты',
                 link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/spravochniki/kontragenty.md'
               },
               {
-                text: 'Счета и кассы',
-                link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/spravochniki/scheta_i_kassy.md'
+                text: 'Печатные шаблоны',
+                link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/spravochniki/pechatnye_shablony.md'
               },
               {
-                text: 'Группы товаров',
-                link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/spravochniki/gruppy_tovarov.md'
+                text: 'Сотрудники',
+                link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/spravochniki/sotrudniki.md'
+              },
+              {
+                text: 'Счета и кассы',
+                link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/spravochniki/scheta_i_kassy.md'
               },
               {
                 text: 'Товары',
