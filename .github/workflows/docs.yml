@@ -24,7 +24,7 @@ jobs:
         uses: pnpm/action-setup@v4
         with:
           # Choose the pnpm version to use
-          version: 9.5.9
+          version: 9
           # Install dependencies using pnpm
           run_install: true
 
@@ -32,7 +32,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           # Choose the node version to use
-          node-version: 22.17.0
+          node-version: 22
           # Cache pnpm dependencies
           cache: pnpm
 
