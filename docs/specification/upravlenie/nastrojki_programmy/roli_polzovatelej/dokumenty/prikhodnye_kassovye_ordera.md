@@ -4,7 +4,7 @@ createTime: 2025/05/06 16:52:31
 ---
 Группа разрешений для доступа к документам **Приходные кассовые ордера**.
 
-![](../../../../../assets/specification/image235.pngprikhodnye_kassovye_ordera_polzovateli_i_dostupy_1.png)
+![](../../../../../assets/specification/prikhodnye_kassovye_ordera_polzovateli_i_dostupy_1.png)
 
 ![](../../../../../assets/specification/image006.png) **Архив**
 
