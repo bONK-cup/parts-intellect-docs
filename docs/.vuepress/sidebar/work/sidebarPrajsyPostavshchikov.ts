@@ -53,6 +53,10 @@ export const sidebarPrajsyPostavshchikov = [
         text: 'Актуализация остатков в прайс-листе поставщика',
         link: '/work/prajsy_postavshchikov/zagruzka/aktualizatsiya_ostatkov_v_prajs-liste_postavshchika.md'
       },
+      {
+        text: 'Присваивание веса позициям',
+        link: '/work/prajsy_postavshchikov/zagruzka/prisvaivanie_vesa_pozitsiyam.md'
+      }
     ]
   },
   {
