@@ -24,6 +24,10 @@ export const sidebarUpravlenie = [
             collapsed: true,
             items: [
               {
+                text: 'Автосервис (разрешения)',
+                link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/avtoservis/README.md'
+              }
+              {
                 text: 'Задания в ремзону',
                 link: '/specification/upravlenie/nastrojki_programmy/roli_polzovatelej/avtoservis/zadaniya_v_remzonu.md'
               },
